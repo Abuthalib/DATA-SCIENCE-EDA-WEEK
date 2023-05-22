@@ -1,0 +1,101 @@
+id,Carname,color,age,speed
+1,Sable,Fuscia,4,58
+2,Rodeo,Red,4,101
+3,Cabriolet,Mauv,2,110
+4,S2000,Khaki,10,80
+5,Yukon XL 1500,Aquamarine,3,110
+6,6000,Purple,3,71
+7,Expedition,Puce,7,144
+8,Probe,Teal,4,76
+9,Expedition,Maroon,6,180
+10,Dakota,Aquamarine,4,52
+11,E250,Green,6,96
+12,1500,Maroon,5,173
+13,DeVille,Yellow,3,106
+14,Suburban,Puce,1,41
+15,DTS,Violet,7,127
+16,LHS,Blue,4,113
+17,Catera,Puce,5,146
+18,Sequoia,Crimson,7,64
+19,MX-6,Pink,8,80
+20,Camaro,Mauv,4,75
+21,Boxster,Mauv,7,117
+22,Rio,Green,7,150
+23,XC70,Violet,5,169
+24,Xterra,Pink,4,115
+25,2500,Indigo,6,79
+26,Camaro,Indigo,5,178
+27,Silverado,Blue,4,57
+28,9-3,Crimson,2,160
+29,LaCrosse,Maroon,2,116
+30,Silverado 1500,Red,8,96
+31,Taurus,Red,9,70
+32,Sable,Teal,5,55
+33,Mustang,Violet,7,78
+34,Escape,Crimson,6,123
+35,Venza,Puce,7,153
+36,H1,Teal,3,97
+37,LeSabre,Yellow,8,85
+38,Sportvan G10,Teal,2,71
+39,V70,Crimson,4,135
+40,Daytona,Puce,3,83
+41,RDX,Red,6,154
+42,D350 Club,Violet,6,61
+43,Frontier,Yellow,5,49
+44,Quest,Mauv,10,54
+45,911,Pink,1,111
+46,Riviera,Green,5,43
+47,Echo,Khaki,6,62
+48,Titan,Maroon,1,174
+49,Boxster,Red,1,41
+50,Blazer,Purple,7,147
+51,S4,Violet,6,43
+52,Tribeca,Fuscia,4,162
+53,Pathfinder,Mauv,8,41
+54,GTI,Violet,2,99
+55,Sephia,Fuscia,6,142
+56,Monterey,Purple,9,129
+57,Santa Fe,Maroon,1,128
+58,Suburban 2500,Yellow,1,121
+59,MR2,Maroon,4,134
+60,SL-Class,Blue,1,173
+61,Forenza,Teal,8,165
+62,Firebird,Crimson,9,89
+63,xD,Orange,3,78
+64,GS,Puce,3,66
+65,3500,Red,4,100
+66,911,Fuscia,2,166
+67,Trooper,Mauv,2,147
+68,LS,Crimson,9,81
+69,Patriot,Turquoise,2,97
+70,1500,Purple,6,104
+71,S2000,Crimson,8,124
+72,Tracer,Goldenrod,5,172
+73,Cayenne,Green,2,91
+74,Spectra,Goldenrod,5,43
+75,Trans Sport,Puce,7,179
+76,Eldorado,Green,2,163
+77,Insight,Aquamarine,1,85
+78,Solstice,Maroon,6,155
+79,Caravan,Blue,4,105
+80,Discovery,Blue,10,92
+81,Taurus,Khaki,9,85
+82,XC90,Blue,2,168
+83,XC70,Aquamarine,4,127
+84,Land Cruiser,Red,7,106
+85,Sorento,Aquamarine,5,163
+86,GX,Teal,2,152
+87,Eldorado,Orange,4,142
+88,Viper,Khaki,10,169
+89,Xtra,Crimson,6,137
+90,EV1,Maroon,4,99
+91,Journey,Violet,8,88
+92,Grand Caravan,Turquoise,1,107
+93,SX4,Puce,3,114
+94,Sienna,Crimson,3,79
+95,Armada,Crimson,3,163
+96,3500,Purple,5,130
+97,Elantra,Crimson,6,113
+98,Ram Van 1500,Khaki,6,71
+99,Rapide,Indigo,8,126
+100,Contour,Blue,8,169
